@@ -372,3 +372,36 @@ friends = ["Jim", "Karen", "Sally", "John", "Mike"]
 # myChineseChef = ChineseChef()
 # myChineseChef.make_orange_chicken()
 # myChineseChef.make_special()
+
+# print("    /|")
+# print("   / |")
+# print("  /  |")
+# print(" /   |")
+# print("/____|")
+
+# character_name = "Tom"
+# character_age = "50"
+#
+# print("There once was a man named " + character_name + ", ")
+# print("he was " + character_age + " years old. ")
+# character_name = "Mike"
+# character_age = "44"
+# print("He really liked the name " + character_name + ", ")
+# print("but didn't like being " + character_age + ".")
+
+# Variables/data can be string, numbers (integer, float), true or false (boolean)
+
+# phrase = "Giraffe Academy"
+# print("Giraffe\"\\\nAcademy")
+# print(phrase + " is cool")
+# print(phrase.lower())
+# print(phrase.upper())
+# print(phrase.isupper())
+# print(phrase.upper().isupper())
+# print(len(phrase))
+# print(phrase[0])
+# print(phrase.index("G"))
+# print(phrase.index("Academy"))
+# print(phrase.index("i"))
+# print(phrase.replace("Giraffe", "Elephant"))
+
