@@ -494,19 +494,25 @@ friends = ["Jim", "Karen", "Sally", "John", "Mike"]
 # else:
 #     print("Invalid operator.")
 
-monthConversions = {
-    "Jan" : "January",
-    "Feb" : "February",
-    "Mar" : "March",
-    "Apr" : "April",
-    "May" : "May",
-    "Jun" : "June",
-    "Jul" : "July",
-    "Aug" : "August",
-    "Sep" : "September",
-    "Oct" : "October",
-    "Nov" : "November",
-    "Dec" : "December"
-}
+# monthConversions = {
+#     "Jan" : "January",
+#     "Feb" : "February",
+#     "Mar" : "March",
+#     "Apr" : "April",
+#     "May" : "May",
+#     "Jun" : "June",
+#     "Jul" : "July",
+#     "Aug" : "August",
+#     "Sep" : "September",
+#     "Oct" : "October",
+#     "Nov" : "November",
+#     "Dec" : "December"
+# }
+#
+# print(monthConversions.get("Luv", "Key not found"))
 
-print(monthConversions.get("Luv", "Key not found"))
+i = 1
+while i <= 10:
+    print(i)
+    i += 1
+print("Done with loop.")
