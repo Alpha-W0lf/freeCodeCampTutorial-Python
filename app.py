@@ -511,8 +511,9 @@ friends = ["Jim", "Karen", "Sally", "John", "Mike"]
 #
 # print(monthConversions.get("Luv", "Key not found"))
 
-i = 1
-while i <= 10:
-    print(i)
-    i += 1
-print("i is now " + str(i) + " Done with loop.")
+# i = 1
+# while i <= 10:
+#     print(i)
+#     i += 1
+# print("i is now " + str(i) + " Done with loop.")
+
