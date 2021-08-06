@@ -446,3 +446,9 @@ friends = ["Jim", "Karen", "Sally", "John", "Mike"]
 # # coordnates[1] = 10 ## This won't work since tuples are immutable
 # print(coordinates[1])
 
+def sayhi():
+    print("Hello User")
+
+print("Top")
+sayhi()
+print("Bottom")
