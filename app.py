@@ -535,3 +535,10 @@ friends = ["Jim", "Karen", "Sally", "John", "Mike"]
 # else:
 #     print("You got the secret word. YOU WIN.")
 
+# friends = ["Jim", "Karen", "Kevin"]
+# for index in range(5):
+#     if index == 0:
+#         print("First iteration")
+#     else:
+#         print("Not first")
+
