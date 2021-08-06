@@ -563,3 +563,24 @@ friends = ["Jim", "Karen", "Sally", "John", "Mike"]
 #     for col in row:
 #         print(col)
 
+#  Giraffe Language
+#  vowels -> g
+
+#  dog -> dgg
+#  cat -> cgt
+
+# def translate(phrase):
+#     final = ""
+#     for letter in phrase:
+#         if letter.lower() in "aeiou":
+#             if letter.isupper():
+#                 final = final + "G"
+#             else:
+#                 final = final + "g"
+#         else:
+#             final = final + letter
+#     return final
+#
+# print(translate(input("Enter a phrase: ")))
+
+print("Comments are fun")
