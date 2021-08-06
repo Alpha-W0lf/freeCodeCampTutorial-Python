@@ -517,20 +517,21 @@ friends = ["Jim", "Karen", "Sally", "John", "Mike"]
 #     i += 1
 # print("i is now " + str(i) + " Done with loop.")
 
-secret_word = "giraffe"
-guess = ""
-guess_count = 0
-guess_limit = 3
-out_of_guesses = False
+# secret_word = "giraffe"
+# guess = ""
+# guess_count = 0
+# guess_limit = 3
+# out_of_guesses = False
+#
+# while guess != secret_word and not(out_of_guesses):
+#     if guess_count < guess_limit:
+#         guess = input("Enter guess:")
+#         guess_count += 1
+#     else:
+#         out_of_guesses = True
+#
+# if out_of_guesses:
+#     print("You are out of guesses. YOU LOSE.")
+# else:
+#     print("You got the secret word. YOU WIN.")
 
-while guess != secret_word and not(out_of_guesses):
-    if guess_count < guess_limit:
-        guess = input("Enter guess:")
-        guess_count += 1
-    else:
-        out_of_guesses = True
-
-if out_of_guesses:
-    print("You are out of guesses. YOU LOSE.")
-else:
-    print("You got the secret word. YOU WIN.")
