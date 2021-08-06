@@ -457,3 +457,15 @@ friends = ["Jim", "Karen", "Sally", "John", "Mike"]
 # result = cube(4)
 # print(result)
 
+is_male = True
+is_tall = False
+
+if is_male and is_tall:
+    print("Person is a tall male.")
+elif is_male and not(is_tall):
+    print("Person is a short male.")
+elif not(is_male) and is_tall:
+    print("Person is tall, but not a male.")
+else:
+    print("Person is not male and not tall.")
+
