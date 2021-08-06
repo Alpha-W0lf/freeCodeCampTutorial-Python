@@ -515,4 +515,4 @@ i = 1
 while i <= 10:
     print(i)
     i += 1
-print("Done with loop.")
+print("i is now " + str(i) + " Done with loop.")
