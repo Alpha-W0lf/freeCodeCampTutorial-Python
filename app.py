@@ -405,3 +405,44 @@ friends = ["Jim", "Karen", "Sally", "John", "Mike"]
 # print(phrase.index("i"))
 # print(phrase.replace("Giraffe", "Elephant"))
 
+# print(10 % 3)
+
+# from math import *
+#
+# my_num = -5
+# print(str(abs(my_num)) + " is my favorite number")
+# print(pow(3, 5))
+# print(max(4, 5, 2, 1, 9))
+# print(min(4, 2, 5, 7, 7, 2))
+# print(round(3.2))
+# print(floor(3.7))
+# print(ceil(3.4))
+# print(sqrt(36))
+
+# name = input("Enter your name: ")
+# age = input("Enter your age: ")
+# print("Hello " + name + "! You are " + age + "!")
+
+# num1 = input("Enter a number: ")
+# num2 = input("Enter another number: ")
+# result = float(num1) + float(num2)
+# print(result)
+
+# color = input("Enter a color: ")
+# plural_noun = input("Enter a plural noun: ")
+# celebrity = input("Enter a celebrity: ")
+#
+# print("Roses are " + color)
+# print(plural_noun + " are blue")
+# print("I love " + celebrity)
+
+# lucky_numbers = [4, 8, 15, 16, 23, 42]
+# friends = ["Kevin", "Karen", "Jim", "Oscar", "Toby"]
+#
+# friends2 = friends.copy()
+# print(friends2)
+
+# coordinates = (4, 5)  # Tuples are like lists, but immutable. Tuples can be inside lists.
+# # coordnates[1] = 10 ## This won't work since tuples are immutable
+# print(coordinates[1])
+
