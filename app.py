@@ -599,8 +599,12 @@ friends = ["Jim", "Karen", "Sally", "John", "Mike"]
 #
 # employee_file.close()
 
-employee_file = open("index.html", "w")
+# employee_file = open("index.html", "w")
+#
+# employee_file.write("<p>This is HTML</p>")
+#
+# employee_file.close()
 
-employee_file.write("<p>This is HTML</p>")
+import useful_tools
 
-employee_file.close()
+print(useful_tools.roll_dice(10))
