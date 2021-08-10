@@ -605,6 +605,10 @@ friends = ["Jim", "Karen", "Sally", "John", "Mike"]
 #
 # employee_file.close()
 
-import useful_tools
+# import useful_tools
+#
+# print(useful_tools.roll_dice(10))
 
-print(useful_tools.roll_dice(10))
+import docx
+
+docx.
