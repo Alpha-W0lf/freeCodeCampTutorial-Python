@@ -609,3 +609,4 @@ friends = ["Jim", "Karen", "Sally", "John", "Mike"]
 #
 # print(useful_tools.roll_dice(10))
 
+from Student1 import Student
