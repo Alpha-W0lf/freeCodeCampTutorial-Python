@@ -609,6 +609,3 @@ friends = ["Jim", "Karen", "Sally", "John", "Mike"]
 #
 # print(useful_tools.roll_dice(10))
 
-import docx
-
-docx.
