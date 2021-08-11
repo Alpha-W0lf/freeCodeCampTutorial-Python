@@ -638,11 +638,20 @@ friends = ["Jim", "Karen", "Sally", "John", "Mike"]
 #     print("You got " + str(score) + "/" + str(len(questions)) + " correct.")
 #
 # run_test(questions)
+#
+# from Student1 import Student
+#
+# student1 = Student("Oscar", "Accounting", 3.1)
+# student2 = Student("Phyllis", "Business", 3.8)
+#
+# print(student1.on_honor_roll())
 
-from Student1 import Student
+from Chef1 import Chef
+from ChineseChef1 import ChineseChef
 
-student1 = Student("Oscar", "Accounting", 3.1)
-student2 = Student("Phyllis", "Business", 3.8)
+myChef = Chef()
+myChef.make_special_dish()
 
-print(student1.on_honor_roll())
+myChineseChef = ChineseChef()
+myChineseChef.make_special_dish()
 
